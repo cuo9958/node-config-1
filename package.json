@@ -1,5 +1,5 @@
 {
-  "name": "config",
+  "name": "@dal/config",
   "version": "3.1.0",
   "main": "./lib/config.js",
   "description": "Configuration control for production node deployments",
