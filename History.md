@@ -389,7 +389,7 @@ and you're not trying to mutate config arrays.
 0.4.35 / 2014-01-16
 ===================
 
-  * NODE_CONFIG_DIR can now contain a relative path for .js and .coffee configurations
+  * NODE_CONFIG_DIR_C can now contain a relative path for .js and .coffee configurations
 
 0.4.34 / 2014-01-06
 ===================
@@ -549,7 +549,7 @@ and you're not trying to mutate config arrays.
 ===================
 
   * Made sure the CONFIG object is a shared singleton
-  * Added NODE_CONFIG_DIR environment variable to point to a different directory
+  * Added NODE_CONFIG_DIR_C environment variable to point to a different directory
   * Added tests and documentation for the above
 
 0.4.9 / 2012-01-06
